@@ -1,0 +1,22 @@
+{ "name": "jscoverage-executer",
+  "version": "0.0.1",
+  "description": "run your script with jscoverage",
+  "keywords": ["coverage","jscoverage"],
+  "homepage": "https://github.com/Shanon/node-jscoverage-executer",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/Shanon/node-jscoverage-executer.git"
+  },
+  "author": "Shota Takayama <takayama[at]shanon.co.jp>",
+  "engines": { "node": ">= 0.4.11" },
+  "Dependencies": {
+      "whiskey": "0.6.3"
+  },
+  "bin": "node-jscoverage-executer",
+  "licenses" : [
+      {
+          "type": "MIT",
+          "url": "http://www.opensource.org/licenses/mit-license.php"
+      }
+  ]
+}
